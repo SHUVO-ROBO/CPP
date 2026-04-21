@@ -1,3 +1,8 @@
+bin/
 *.out
-a.out
 *.exe
+a.out
+factorial
+bubble_sort
+prime_num
+Nth_num_sum
